@@ -1,0 +1,18 @@
+BrusHouse. Destination - Minsk, Belarus
+Workers: 
+Alex. Age  - 20. Salary - 1000,00
+Bob. Age  - 21. Salary - 1100,00
+John. Age  - 22. Salary - 1200,00
+Maxim. Age  - 40. Salary - 2000,00
+Anton. Age  - 30. Salary - 2000,00
+Nikolai. Age  - 40. Salary - 1300,00
+Aleksandr. Age  - 40. Salary - 1300,00
+Evgeniy. Age  - 40. Salary - 1300,00
+Sergei. Age  - 40. Salary - 1300,00
+Nikolai. Age  - 40. Salary - 1300,00
+Brigades:
+brigade of masons. Brigadier - Anton. Type of work - reconstruction
+brigade of plasterers. Brigadier - Maxim. Type of work - building
+Material use where facility = Belact:
+1 - 1000
+1 - 1000
